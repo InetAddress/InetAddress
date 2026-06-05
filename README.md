@@ -1,5 +1,4 @@
-# hi, i'm InetAddress
+<h1 align="center">Hi 👋, I'm InetAddress</h1>
 
-- 📱 Contact:
-  - Discord: @kotlinlist
-  - [Twitter](https://twitter.com/A7e3_ "A7e3")
+- Discord: @kotlinlist
+- [Twitter](https://twitter.com/A7e3_ "A7e3")
